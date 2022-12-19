@@ -14,8 +14,9 @@ const myList = document.querySelector('#myList');
 const addAlarm = document.querySelector('.setAlarm')
 
 
-const alarmList = [];  // Stores all the alarms being set 
-// let count =1;
+const alarmList = [];
+// Stores all the alarms being set 
+// let count = 1;
 
 
 // Plays the alarm audio at correct time
